@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Blokus.ico</file>
+    </qresource>
+</RCC>
